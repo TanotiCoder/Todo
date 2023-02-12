@@ -1,6 +1,6 @@
 # Todo
 
-
+This application based on localstorage in which we can crud data easily and integrated with navigation and navigation drawer 
 
 
 ### First video
